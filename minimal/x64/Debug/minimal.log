@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\_cpp\minimal\deps\lib\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\_cpp\minimal\deps\lib\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\_cpp\minimal\x64\Debug\minimal.exe : fatal error LNK1120: 2 unresolved externals
