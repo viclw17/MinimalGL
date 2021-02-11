@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\_cpp\minimal\Debug\minimal.exe</FullPath>
+      <FullPath>D:\Git\MinimalGL\minimal\Debug\minimal.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

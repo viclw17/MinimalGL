@@ -1,2 +1,4 @@
 D:\_cpp\minimal\Debug\minimal.exe
 D:\_cpp\minimal\Debug\minimal.pdb
+D:\Git\MinimalGL\minimal\Debug\minimal.exe
+D:\Git\MinimalGL\minimal\Debug\minimal.pdb

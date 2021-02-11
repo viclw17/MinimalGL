@@ -12,7 +12,7 @@ public:
 	void linkShaders();
 	void addAttribute(const std::string attributeName);
 
-	GLuint getUniformLocation(const std::string& uniformName);
+	GLint getUniformLocation(const std::string& uniformName);
 
 	void use();
 	void unuse();
